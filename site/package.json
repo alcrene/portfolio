@@ -9,7 +9,7 @@
     "develop": "gatsby develop"
   },
   "dependencies": {
-    "@arene/gatsby-theme-intro-academic": "workspace:^",
+    "@arene/gatsby-theme-intro-academic": "*",
     "gatsby": "^5.8.0",
     "gatsby-plugin-mdx": "^5.8.0",
     "gatsby-source-filesystem": "*",
