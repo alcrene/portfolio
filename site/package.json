@@ -12,8 +12,8 @@
     "@arene/gatsby-theme-intro-academic": "*",
     "gatsby": "^5.8.0",
     "gatsby-plugin-mdx": "^5.8.0",
-    "gatsby-source-filesystem": "*",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "gatsby-source-filesystem": "^5.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
