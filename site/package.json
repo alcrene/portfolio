@@ -1,0 +1,19 @@
+{
+  "name": "@arene/portfolio-website",
+  "version": "0.1.0",
+  "author": "Alexandre René <...@arene.ca>",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "@arene/gatsby-theme-intro-academic": "workspace:^",
+    "gatsby": "^5.8.0",
+    "gatsby-plugin-mdx": "^5.8.0",
+    "gatsby-source-filesystem": "*",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}

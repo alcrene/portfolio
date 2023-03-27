@@ -1,0 +1,19 @@
+{
+  "name": "@arene/portfolio-project",
+  "version": "0.1.0",
+  "license": "CC-BY-NC-SA-4.0",
+  "packageManager": "yarn@3.5.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "workspaces": [
+    "gatsby-theme-intro",
+    "gatsby-theme-intro-academic",
+    "site"
+  ],
+  "scripts": {
+    "build": "yarn workspace '@arene/portfolio-website' build",
+    "clean": "yarn workspace '@arene/portfolio-website' clean && yarn workspace gatsby-theme-intro-project clean && yarn workspace gatsby-theme-intro-academic-project clean",
+    "develop": "yarn workspace '@arene/portfolio-website' develop"
+  }
+}

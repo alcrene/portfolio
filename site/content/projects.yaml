@@ -1,0 +1,51 @@
+- name: Sinn
+  url: https://github.com/mackelab/sinn
+  description: |
+    Build optimizable dynamical models in a modular, declarative fashion. Supports fast iteration and complex models. See also the [sinn-full](https://github.com/alcrene/sinn-full) project template.
+  status: live
+  tags:
+    - Optimization
+    - Time series
+    - Aesara
+    - Automatic differentiation
+    - Model-driven development
+    - Python 3
+  icon: github
+
+- name: SumatraTask
+  url: https://github.com/alcrene/smttask
+  description: Support provenance tracking and dataflow paradigm for highly-reproduceable research with minimal boilerplate. Just add type hints and decorators to your existing functions. Provenance tracking and serialization provided by [Sumatra](https://sumatra.readthedocs.io) and [Pydantic](https://pydantic-docs.helpmanual.io) respectively. Units of work (“tasks”) can be exported as fully-contained, portable JSON files.
+  status: live
+  tags:
+    - Python 3
+    - Serialization
+    - Provenance tracking
+    - Reproducibility
+    - Dataflow
+    - Scientific programming
+  icon: github
+  # image: images/project.jpg
+
+- name: SciTyping
+  url: https://github.com/alcrene/scityping
+  description: |
+    A collection of type hint specifiers for Python types common in the fields of scientific computing, data science and machine learning. Most types come with a pair of JSON serializer/deserializer functions, which can be used both to archive and transfer data.
+    In contrast to pickling, the resulting files are both future safe and human readable, which makes them especially suitable to ensure [reproducibility](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html).
+
+    Some supported data types:
+
+    - `range`
+    - NumPy arrays
+    - NumPy random number generators
+    - SciPy distributions
+    - PyTorch tensors
+    - Values with units (Pint)
+
+  status: live
+  tags:
+    - Python 3
+    - Type hints
+    - Serialization
+    - Scientific programming
+    - Reproducibility
+  icon: github

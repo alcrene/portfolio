@@ -1,0 +1,31 @@
+- title: A brief, opinionated introduction to the Fokker-Planck Equation
+  kind: tutorial
+  format: write-up
+  length: 1.5 h
+  url: https://alcrene.github.io/fokker-planck-brief-intro/
+  date: August 2022
+
+- title: A mathematically-offensive introduction to stochastic
+  kind: tutorial
+  format: slides
+  length: 1.5 h
+  url: https://slides.com/alexrene/a-mathematically-offensive-introduction-to-stochastic-calculus
+  date: Jan 2022
+
+- title: Neurons as dynamical systems
+  kind: tutorial
+  format: hand-drawn slides
+  length: 1.5 h
+  date: 2019
+
+- title: Hands-on introduction to Markov Chain Monte Carlo sampling
+  kind: tutorial
+  format:
+  length: 1.5 h
+  date: 2019
+
+- title: Evaluating, comparing and expanding models
+  kind: chapter summary
+  format: slides
+  length: 1.5 h
+  date: 2019

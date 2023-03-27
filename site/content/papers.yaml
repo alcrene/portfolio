@@ -1,0 +1,107 @@
+- title: Decomposing neural networks as mappings of correlation functions
+  authors:
+    - K. Fischer
+    - A. René
+    - C. Keup
+    - M. Layer
+    - D. Dahmen
+    - M. Helias
+  journal: Physical Review Research
+  date: 2022
+  doi: 10.1103/PhysRevResearch.4.043143
+  url: https://doi.org/doi:10.1103/PhysRevResearch.4.043143
+  pdf:
+  tags:
+    - Theory of deep learning
+    - Higher-order correlations
+    - MLP
+    - MNIST
+    - CIFAR10
+
+- title: Inference of a mesoscopic population model from population spike trains
+  authors:
+    - A. René
+    - A. Longtin
+    - J. H. Macke
+  journal: Neural Computation
+  date: 2020
+  doi: 10.1162/neco_a_01292
+  url: https://doi.org/doi:10.1162/neco_a_01292
+  pdf:
+  tags:
+    - Bayesian inference
+    - Effective models
+    - MCMC
+    - Computational neuroscience
+    - mesoGIF
+
+- title: Mean, covariance, and effective dimension of stochastic distributed delay dynamics
+  authors:
+    - A. René
+    - A. Longtin
+  journal: Chaos
+  date: 2017
+  doi: 10.1063/1.5007866
+  url: https://doi.org/doi:10.1063/1.5007866
+  pdf:
+  tags:
+    - DDE
+    - SDE
+    - FDE
+    - Eigenfunction decomposition
+
+- title: Excitation of complex spin dynamics patterns in a quantum-dot electron spin ensemble
+  authors:
+    - S. Varwig
+    - I. Yugova
+    - A. René
+    - T. Kazimierczuk
+    - A. Greilich
+    - D. R. Yakovlev
+    - D. Reuter
+    - A. D. Wieck
+    - M. Bayer
+  journal: Physical Review B
+  date: 2014
+  doi: 10.1103/PhysRevB.89.081310
+  url: https://doi.org/doi:10.1103/PhysRevB.89.081310
+
+- title: All-optical tomography of electron spins in (In,Ga)As quantum dots
+  authors:
+    - S. Varwig
+    - A. René
+    - Sophia E. Economou
+    - A. Greilich
+    - D. R. Yakovlev
+    - D. Reuter
+    - A. D. Wieck
+    - T. L. Reinecke
+    - M. Bayer
+  journal: Physical Review B
+  date: 2014
+  doi: 10.1103/PhysRevB.89.081310
+  url: https://doi.org/doi:10.1103/PhysRevB.89.081310
+
+- title: Temperature dependence of hole spin coherence in (In,Ga)As quantum dots measured by mode-locking and echo techniques
+  authors:
+    - S. Varwig
+    - A. René
+    - A. Greilich
+    - D. R. Yakovlev
+    - D. Reuter
+    - A. D. Wieck
+    - M. Bayer
+  journal: Physical Review B
+  date: 2013
+  doi: 10.1103/PhysRevB.87.115307
+  url: https://doi.org/doi:10.1103/PhysRevB.87.115307
+
+- title: Herzberg circuit and Berry’s phase in chirality-based coded qubit in a triangular triple quantum dot
+  authors:
+    - C. Hsieh
+    - A. René
+    - P. Hawrylak
+  journal: Physical Review B
+  date: 2012
+  doi: 10.1103/PhysRevB.86.115312
+  url: https://doi.org/doi:10.1103/PhysRevB.86.115312
