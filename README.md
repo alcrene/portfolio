@@ -3,9 +3,12 @@
     <img alt="AR" src="./site/content/images/AR-logo.svg" width="60" />
   </a>
 </p>
+
 <h1 align="center">
   Alexandre René's personal website
 </h1>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff229d34-ab08-45ba-8f48-ebc059a45f13/deploy-status)](https://app.netlify.com/sites/animated-crisp-804287/deploys)
 
 Personal website, based on Wojciech Kocjan's [intro](https://github.com/wkocjan/gatsby-theme-intro) Gatsby template. This repo is the entire project, including both theme dependencies and the website itself. The file structure is that suggested by the [Gatsby starter workspace](https://github.com/gatsbyjs/gatsby-starter-theme-workspace).
 
