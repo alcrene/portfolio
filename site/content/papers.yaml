@@ -1,3 +1,24 @@
+- title: Learning Interacting Theories from Data
+  authors:
+    - C. Merger
+    - A. René
+    - K. Fischer
+    - P. Bouss
+    - S. Nestler
+    - D. Dahmen
+    - C. Honerkamp
+    - M. Helias
+  journal: arXiv
+  date: 2023
+  doi: 10.48550/arXiv.2304.00599
+  url: https://doi.org/doi:10.48550/arXiv.2304.00599
+  pdf:
+  tags:
+    - Theory of deep learning
+    - Higher-order correlations
+    - MLP
+    - Symmetric tensors
+
 - title: Decomposing neural networks as mappings of correlation functions
   authors:
     - K. Fischer
@@ -43,7 +64,7 @@
   date: 2017
   doi: 10.1063/1.5007866
   url: https://doi.org/doi:10.1063/1.5007866
-  pdf:
+  pdf: papers/Chaos2017.pdf
   tags:
     - DDE
     - SDE

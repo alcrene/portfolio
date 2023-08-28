@@ -27,14 +27,14 @@
   # image: images/project.jpg
 
 - name: SciTyping
-  url: https://github.com/alcrene/scityping
+  url: https://scityping.readthedocs.io/
   description: |
     A collection of type hint specifiers for Python types common in the fields of scientific computing, data science and machine learning. Most types come with a pair of JSON serializer/deserializer functions, which can be used both to archive and transfer data.
     In contrast to pickling, the resulting files are both future safe and human readable, which makes them especially suitable to ensure [reproducibility](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html).
 
     Some supported data types:
 
-    - `range`
+    - range
     - NumPy arrays
     - NumPy random number generators
     - SciPy distributions
@@ -49,3 +49,20 @@
     - Scientific programming
     - Reproducibility
   icon: github
+
+- name: Validating Config
+  url: https://validating-config.readthedocs.io/
+  description: |
+    Simple, extendable configuration files with validation.
+
+    Designed for scientists with complex needs and no time to learn new syntax: If you know modern Python, you already know how to use this module.
+
+  status: live
+  tags:
+    - Python 3
+    - Config
+    - Type hints
+    - Validation
+    - Pydantic
+  icon: github
+
