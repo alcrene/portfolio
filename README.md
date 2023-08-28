@@ -79,6 +79,17 @@ This is how I set up my development installation at the time of writing. It's a 
 
 **Hint**: If you have trouble getting Yarn to use your local dependencies, make sure you are not running the legacy yarn v1. Remember that if you delete the `.yarn` directory, you need to run `yarn set version berry` again.
 
+## Deployment
+
+Build & hosting services like Netlify will require that the `yarn.lock` does not change during a build. This can be tricky with workspaces. Currently I do the following:
+
+- Run `yarn install` to update the content of the `yarn.lock`.
+- Edit the `yarn.lock` file manually to remove:
+  + Any entry resolving to a workspace (it should be duplicated with an entry resolving to an NPM version)
+  + Package keys with multiple versions.
+    * In this case, I edit the key to keep only the package that was resolved to.
+    * Alternative, look at what the hosted build tool would have produced as a lockfile, and update `yarn.lock` accordingly.
+
 ## Updating content
 
 All content is located under `site/content`. Add/update files to suit your needs.
