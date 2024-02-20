@@ -1,40 +1,36 @@
 - profile:
   initials: AR
   name: Alexandre René
-  profession: Physicist, computational neuroscientist
+  profession: Computational physicist
   image: images/profile.jpg
   location: Aachen, Germany
   relocation: false
   for_hire: false
   institution: RWTH Aachen
-  research_focus: Data-driven dynamical systems
+  research_focus: Data-driven dynamic networks
   focus_url:
   about: |
-    At university I studied both physics and mathematics, drawn by this seeming magical power of mathematics to achieve deep understanding of the natural world. This fascination continues to drive my research today.
+    At university I studied both physics and mathematics, drawn by the ability of mathematics to achieve deep understanding of the natural world. This fascination continues to drive my research today, and let me to pursue graduate studies in computational neuroscience. I was attracted by neuroscience’s potential for mathematization: brains are unimaginably complex biological networks, and simply cataloging their constituents will not suffice to explain how they work. Therefore we need effective models whose interactions we can understand in terms of mathematics.
 
-    I entered computational neuroscience during my graduate studies, attracted to a field which seems to have unbounded potential for mathematization: brains are unimaginably complex biological systems, and simply cataloging their constituents will not suffice to explain how they work. Therefore we need effective models whose interactions we can understand in terms of mathematics.
+    However exactly because these networks are so complex, creating models that are both accurate and understandable is very difficult. To address this, I developed computational tools which blend machine learning with classic dynamical systems theory. The goal is to learn models which are more expressive than those that can be obtained using dynamical systems alone, but which still provide deep insights into the biology, in ways a pure deep learning approach cannot. Such methods however have a propensity to suggest a large number of plausible models, which lead me to questions about how best to perform model selection in the context of data-driven methods.
 
-    However exactly because these systems are so complex, creating models that are both accurate and understandable is very difficult. To address this, I develop computational tools which blend machine learning with classic dynamical systems theory. The goal is to learn models more expressive than what can be fitted using dynamical systems alone, but which still provide deep insights into the biology, in ways a pure deep learning approach cannot.
-    More recently I have also looked for principles of computation in artificial deep neural networks.
-
-    I believe strongly in FAIR and open research, and do my best to make my work reusable whenever possible.
+    My current research direction has shifted to focussing on the network structure itself. As a postdoc in Michael Schaub’s Network Science group, I study inference methods for structured graph models. In particular we are interested in graphs with higher-order structure, such as simplicial or cell complexes.
 
   topics:
+    - Model selection
+    - Random graphs
+    - Bayesian inference
     - Inverse problems
     - Effective models
-    - Model comparison
-    - Data assimilation
     - Computational neuroscience
     - Theory of deep learning
-    - EEG
-    - Bayesian inference
-    - Stochastic differential equations
     - Delay differential equations
   tools:
-    - Machine learning
-    - Bayesian inference
-    - Bifurcation analysis
     - Markov chain Monte Carlo
+    - Automatic differentiation
+    - Stochastic processes
+    - Neural networks
+    - Statistical physics
   budget:
     currency: €
     min: 5

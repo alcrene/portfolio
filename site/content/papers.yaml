@@ -8,15 +8,15 @@
     - D. Dahmen
     - C. Honerkamp
     - M. Helias
-  journal: arXiv
+  journal: Physical Review X
   date: 2023
-  doi: 10.48550/arXiv.2304.00599
-  url: https://doi.org/doi:10.48550/arXiv.2304.00599
+  doi: 10.1103/PhysRevX.13.041033
+  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041033
   pdf:
   tags:
     - Theory of deep learning
     - Higher-order correlations
-    - MLP
+    - Multilayer perceptron (MLP)
     - Symmetric tensors
 
 - title: Decomposing neural networks as mappings of correlation functions
@@ -35,7 +35,7 @@
   tags:
     - Theory of deep learning
     - Higher-order correlations
-    - MLP
+    - Multilayer perceptron (MLP)
     - MNIST
     - CIFAR10
 
@@ -52,7 +52,7 @@
   tags:
     - Bayesian inference
     - Effective models
-    - MCMC
+    - Markov chain Monte Carlo (MCMC)
     - Computational neuroscience
     - mesoGIF
 
