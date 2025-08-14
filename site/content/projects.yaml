@@ -1,23 +1,22 @@
-- name: Sinn
-  url: https://github.com/mackelab/sinn
+- name: EMD model comparison library
+  url: https://alcrene.github.io/emdcmp
+  doi: 10.5281/zenodo.13287993
   description: |
-    Build optimizable dynamical models in a modular, declarative fashion. Supports fast iteration and complex models. See also the [sinn-full](https://github.com/alcrene/sinn-full) project template.
+    A library implementing the empirical model discrepancy criterion for comparing statistical models.
   status: live
   tags:
-    - Optimization
-    - Time series
-    - Aesara
-    - Automatic differentiation
-    - Model-driven development
-    - Python 3
+    - Model selection
+    - Empirical model discrepancy
+    - Hierarchical beta process
+    - Python
   icon: github
 
 - name: SumatraTask
-  url: https://github.com/alcrene/smttask
+  url: https://sumatratask.readthedocs.io
   description: Support provenance tracking and dataflow paradigm for highly-reproduceable research with minimal boilerplate. Just add type hints and decorators to your existing functions. Provenance tracking and serialization provided by [Sumatra](https://sumatra.readthedocs.io) and [Pydantic](https://pydantic-docs.helpmanual.io) respectively. Units of work (“tasks”) can be exported as fully-contained, portable JSON files.
   status: live
   tags:
-    - Python 3
+    - Python
     - Serialization
     - Provenance tracking
     - Reproducibility
@@ -43,11 +42,34 @@
 
   status: live
   tags:
-    - Python 3
+    - Python
     - Type hints
     - Serialization
     - Scientific programming
     - Reproducibility
+  icon: github
+
+- name: Solid colored noise using sparse convolutions
+  url: https://alcrene.github.io/colored-noise
+  doi: 10.5281/zenodo.12802822
+  description: |
+    An implementation of the sparse convolution algorithm (Lewis, 1989) for generating solid time-series of colored noise.
+  status: maintained
+  tags:
+    - Colored noise
+    - Sparse convolution
+    - Python
+  icon: github
+
+- name: Symtensor
+  url: https://github.com/alcrene/symtensor
+  description: |
+     Operate on very large symmetric tensors. Numpy and PyTorch compatible.
+  status: maintained
+  tags:
+    - Symmetric tensors
+    - NumPy
+    - PyTorch
   icon: github
 
 - name: Validating Config
@@ -57,12 +79,41 @@
 
     Designed for scientists with complex needs and no time to learn new syntax: If you know modern Python, you already know how to use this module.
 
-  status: live
+  status: maintained
   tags:
-    - Python 3
+    - Python
     - Config
     - Type hints
     - Validation
     - Pydantic
+  icon: github
+
+- name: Sinn
+  url: https://github.com/mackelab/sinn
+  description: |
+    Build optimizable dynamical models in a modular, declarative fashion. Supports fast iteration and complex models. See also the [sinn-full](https://github.com/alcrene/sinn-full) project template.
+  status: supported
+  tags:
+    - Optimization
+    - Time series
+    - Aesara
+    - Automatic differentiation
+    - Model-driven development
+    - Python
+  icon: github
+
+- name: Pyloric network simulator
+  url: alcrene.github.io/pyloric-network-simulator
+  doi: doi:10.5281/zenodo.12797199
+  description: |
+    Pure-Python, JAX-accelerate implementation of the pyloric circuit model described by Prinz et al (Nat. Neurosci., 2004).
+  status: supported
+  tags:
+    - Hodkin-Huxley model
+    - Conductance model
+    - JAX
+    - Ordinary differential equation
+    - Time series
+    - Python
   icon: github
 

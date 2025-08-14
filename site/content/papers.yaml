@@ -1,3 +1,32 @@
+- title: Selecting fitted models under epistemic uncertainty using a stochastic process on quantile functions
+  authors:
+    - A. René
+    - A. Longtin
+  journal: arXiv
+  date: 2025
+  url: https://alcrene.github.io/emd-paper
+  tags:
+    - Model selection
+    - Non-stationary replication
+    - Misspecified model
+    - System identification
+    - Empirical model discrepancy
+    - Hierarchical beta process
+  doi: 10.48550/arXiv.2408.13414
+- title: Graph Neural Networks Do Not Always Oversmooth
+  authors:
+    - B. Epping
+    - A. René
+    - M. Helias
+    - M. T. Schaub
+  journal: NeurIPS 2024
+  date: 2024
+  url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/5623c35f3ab5e2c72aeb3abce27dc28f-Abstract-Conference.html
+  pdf:
+  tags:
+    - Graph neural networks
+    - Theory of deep learning
+    - Higher-order correlations
 - title: Learning Interacting Theories from Data
   authors:
     - C. Merger
