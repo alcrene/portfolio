@@ -10,11 +10,9 @@
   research_focus: Data-driven dynamic networks
   focus_url:
   about: |
-    At university I studied both physics and mathematics, drawn by the ability of mathematics to achieve deep understanding of the natural world. This fascination continues to drive my research today, and let me to pursue graduate studies in computational neuroscience. I was attracted by neuroscience’s potential for mathematization: brains are unimaginably complex biological networks, and simply cataloging their constituents will not suffice to explain how they work. Therefore we need effective models whose interactions we can understand in terms of mathematics.
-
-    However exactly because these networks are so complex, creating models that are both accurate and understandable is very difficult. To address this, I developed computational tools which blend machine learning with classic dynamical systems theory. The goal is to learn models which are more expressive than those that can be obtained using dynamical systems alone, but which still provide deep insights into the biology, in ways a pure deep learning approach cannot. Such methods however have a propensity to suggest a large number of plausible models, which lead me to questions about how best to perform model selection in the context of data-driven methods.
-
-    My current research direction has shifted to focussing on the network structure itself. As a postdoc in Michael Schaub’s Network Science group, I study inference methods for structured graph models. In particular we are interested in graphs with higher-order structure, such as simplicial or cell complexes.
+    I develop tools to study emergent computation in complex systems.
+    After completing undergraduate degrees in physics and mathematics at the university of Ottawa, I determined theoretical neuroscience to be a field rich in interesting complex systems that could be understood with tools from physics. This turned out to be only partly true, for the simple reason that biology—and especially neuroscience—is much messier than physics. Therefore after some initial work on stochastic dynamical systems, I transitioned to developing inference methods which could broaden the scope of analytically tractable models. This included computational tools to differentiate through complex SDE models, and a theory of model selection for fitted models based on empirical modelling discrepancies.
+    More recently I have joined the Computational Network Science group of Michael Schaub at the RWTH Aachen, with the goal of developing data-driven maximum entropy models for graph configuration spaces.
 
   topics:
     - Model selection
