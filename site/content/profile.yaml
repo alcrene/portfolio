@@ -11,8 +11,8 @@
   focus_url:
   about: |
     I develop tools to study emergent computation in complex systems.
-    After completing undergraduate degrees in physics and mathematics at the university of Ottawa, I determined theoretical neuroscience to be a field rich in interesting complex systems that could be understood with tools from physics. This turned out to be only partly true, for the simple reason that biology—and especially neuroscience—is much messier than physics. Therefore after some initial work on stochastic dynamical systems, I transitioned to developing inference methods which could broaden the scope of analytically tractable models. This included computational tools to differentiate through complex SDE models, and a theory of model selection for fitted models based on empirical modelling discrepancies.
-    More recently I have joined the Computational Network Science group of Michael Schaub at the RWTH Aachen, with the goal of developing data-driven maximum entropy models for graph configuration spaces.
+    After completing undergraduate degrees in physics and mathematics at the University of Ottawa, I determined theoretical neuroscience to be a field rich in interesting complex systems that could be understood with tools from physics. This however turned out to be only partly true, for the simple reason that biology—and especially neuroscience—is much messier than physics. Therefore after some initial work on stochastic dynamical systems, I transitioned to developing inference methods which could broaden the scope of analytically tractable models. This included computational tools to differentiate through complex stochastic equations, and a theory of model selection for fitted models based on empirical modelling discrepancies.
+    More recently I have joined the Computational Network Science group at the RWTH Aachen, with the goal of developing data-driven maximum entropy models for graph configuration spaces.
 
   topics:
     - Model selection
