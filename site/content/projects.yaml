@@ -25,6 +25,22 @@
   icon: github
   # image: images/project.jpg
 
+- name: Validating Config
+  url: https://validating-config.readthedocs.io/
+  description: |
+    Simple, extendable configuration files with validation.
+
+    Designed for scientists with complex needs and no time to learn new syntax: If you know modern Python, you already know how to use this module.
+
+  status: live
+  tags:
+    - Python
+    - Config
+    - Type hints
+    - Validation
+    - Pydantic
+  icon: github
+
 - name: SciTyping
   url: https://scityping.readthedocs.io/
   description: |
@@ -70,22 +86,6 @@
     - Symmetric tensors
     - NumPy
     - PyTorch
-  icon: github
-
-- name: Validating Config
-  url: https://validating-config.readthedocs.io/
-  description: |
-    Simple, extendable configuration files with validation.
-
-    Designed for scientists with complex needs and no time to learn new syntax: If you know modern Python, you already know how to use this module.
-
-  status: maintained
-  tags:
-    - Python
-    - Config
-    - Type hints
-    - Validation
-    - Pydantic
   icon: github
 
 - name: Sinn
