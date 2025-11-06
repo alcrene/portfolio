@@ -2,7 +2,7 @@
   authors:
     - A. René
     - A. Longtin
-  journal: arXiv
+  journal: Nature Communications
   date: 2025
   url: https://alcrene.github.io/emd-paper
   tags:
@@ -12,7 +12,22 @@
     - System identification
     - Empirical model discrepancy
     - Hierarchical beta process
-  doi: 10.48550/arXiv.2408.13414
+  doi: 10.1038/s41467-025-64658-7
+- title: "Characterizing Neural Manifolds' Properties and Curvatures using Normalizing Flows"
+  authors:
+    - Peter Bouss
+    - Sandra Nestler
+    - Kristen Fischer
+    - Claudia Merger
+    - Alexandre René
+    - Moritz Helias
+  journal: arXiv
+  tags:
+    - Neural manifold
+    - Dimensionality reduction
+    - Interpretability
+    - Invertible neural network
+  doi: 10.48550/arXiv.2506.12187
 - title: Graph Neural Networks Do Not Always Oversmooth
   authors:
     - B. Epping
